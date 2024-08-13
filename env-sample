@@ -1,0 +1,3 @@
+VITE_ADD_CATEGORY_API = https://lubosoftdev.com/api/nst_back_end_code/catagory.php?run=insert_main_catagory
+VITE_GET_CATEGORY_API = https://lubosoftdev.com/api/nst_back_end_code/catagory.php?run=get_all_main_cat
+VITE_UPDATE_CATEGORY_API = https://lubosoftdev.com/api/nst_back_end_code/catagory.php?run=update_main_catagory
